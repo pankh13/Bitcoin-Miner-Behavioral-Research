@@ -1,3 +1,7 @@
+'''
+this script is for insert missing data
+'''
+
 import requests
 import pymysql
 import time
